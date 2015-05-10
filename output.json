@@ -1,0 +1,139 @@
+[
+    {
+        "film1": [
+            {
+                "giorno": "\n                  domenica 10                "
+            },
+            {
+                "titolo": "   The Gunman   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/RIBqwqVPwUp6VIWeRZlS-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/the-gunman/"
+            },
+            {
+                "titolo": "   Doraemon il film   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori_notizia-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori/"
+            },
+            {
+                "titolo": "   Child 44 – Il bambino numero 44   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Child-44-trailer-italiano-e-locandina-del-thriller-con-Gary-Oldman-e-Tom-Hardy-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/child-44-il-bambino-numero-44/"
+            },
+            {
+                "titolo": "   Run All Night – Una notte per sopravvivere   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/locandina2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/run-all-night-una-notte-per-sopravvivere/"
+            },
+            {
+                "titolo": "   Ritorno al Marigold Hotel   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/36366-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ritorno-al-marigold-hotel/"
+            },
+            {
+                "titolo": "   I 7 nani   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/xHIrTDXTLZF1jBd7CQNf-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/i-7-nani/"
+            },
+            {
+                "titolo": "   Adaline – L’eterna giovinezza   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/adaline-poster-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/adaline-leterna-giovinezza/"
+            },
+            {
+                "titolo": "   Avengers: Age of Ultron – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/ultron.poster-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/avengers-age-of-ultron-2d/"
+            },
+            {
+                "titolo": "   Fast and Furious 7   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/49946-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/fast-and-furious-7-2/"
+            }
+        ],
+        "film2": [
+            {
+                "giorno": "\n                  lunedì 11                "
+            },
+            {
+                "titolo": "   The Gunman   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/RIBqwqVPwUp6VIWeRZlS-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/the-gunman/"
+            },
+            {
+                "titolo": "   Doraemon il film   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori_notizia-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori/"
+            },
+            {
+                "titolo": "   Child 44 – Il bambino numero 44   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Child-44-trailer-italiano-e-locandina-del-thriller-con-Gary-Oldman-e-Tom-Hardy-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/child-44-il-bambino-numero-44/"
+            },
+            {
+                "titolo": "   The Age of Adaline – Lingua originale   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/adalineL-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/the-age-of-adaline-lingua-originale/"
+            },
+            {
+                "titolo": "   Ritorno al Marigold Hotel   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/36366-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ritorno-al-marigold-hotel/"
+            },
+            {
+                "titolo": "   Adaline – L’eterna giovinezza   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/adaline-poster-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/adaline-leterna-giovinezza/"
+            },
+            {
+                "titolo": "   Avengers: Age of Ultron – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/ultron.poster-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/avengers-age-of-ultron-2d/"
+            },
+            {
+                "titolo": "   Timbuktu   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/50526-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/timbuktu/"
+            }
+        ],
+        "film3": [
+            {
+                "giorno": "\n                  martedì 12                "
+            },
+            {
+                "titolo": "   The Gunman   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/RIBqwqVPwUp6VIWeRZlS-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/the-gunman/"
+            },
+            {
+                "titolo": "   Doraemon il film   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori_notizia-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori/"
+            },
+            {
+                "titolo": "   Child 44 – Il bambino numero 44   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Child-44-trailer-italiano-e-locandina-del-thriller-con-Gary-Oldman-e-Tom-Hardy-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/child-44-il-bambino-numero-44/"
+            },
+            {
+                "titolo": "   Ritorno al Marigold Hotel   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/36366-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ritorno-al-marigold-hotel/"
+            },
+            {
+                "titolo": "   L’attacco dei giganti – Il film – Parte I   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/AttaccoGiganti_LOC-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/lattacco-dei-giganti-il-film-parte-i/"
+            },
+            {
+                "titolo": "   Adaline – L’eterna giovinezza   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/adaline-poster-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/adaline-leterna-giovinezza/"
+            },
+            {
+                "titolo": "   Avengers: Age of Ultron – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/ultron.poster-2-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/avengers-age-of-ultron-2d/"
+            }
+        ]
+    }
+]
