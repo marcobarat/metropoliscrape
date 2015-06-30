@@ -1,12 +1,31 @@
 {
-  "name"         : "node-web-scrape",
-  "version"      : "0.0.1",
-  "description"  : "Scrape le web.",
-  "main"         : "server.js",
-  "author"       : "Scotch",
-  "dependencies" : {
-    "express"    : "latest",
-    "request"    : "latest",
-    "cheerio"    : "latest"
-  }
+  "name": "metropoliscrape",
+  "version": "1.0.0",
+  "description": "metropolis scrape",
+  "main": "server.js",
+  "dependencies": {
+    "cheerio": "~0.19.0",
+    "express": "~4.12.3",
+    "jsdom": "~5.3.0",
+    "package": "~1.0.1",
+    "request": "~2.55.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcobarat/metropoliscrape.git"
+  },
+  "keywords": [
+    "metropoliscrape"
+  ],
+  "author": "marcobarat@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcobarat/metropoliscrape/issues"
+  },
+  "homepage": "https://github.com/marcobarat/metropoliscrape",
+  "scripts": {
+  "start": "node server.js"
+},
+"main": "server.js"
 }

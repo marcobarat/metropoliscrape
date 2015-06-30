@@ -2,137 +2,147 @@
     {
         "film1": [
             {
-                "giorno": "\n                  domenica 10                "
+                "giorno": "\n                  martedì 30                "
             },
             {
-                "titolo": "   The Gunman   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/RIBqwqVPwUp6VIWeRZlS-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/the-gunman/"
+                "titolo": "   Ted 2   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/10924620_953845727966480_8022922447812071045_o-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ted-2-2/"
             },
             {
-                "titolo": "   Doraemon il film   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori_notizia-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori/"
+                "titolo": "   Ruth e Alex   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/51260-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ruth-e-alex/"
             },
             {
-                "titolo": "   Child 44 – Il bambino numero 44   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Child-44-trailer-italiano-e-locandina-del-thriller-con-Gary-Oldman-e-Tom-Hardy-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/child-44-il-bambino-numero-44/"
+                "titolo": "   Big Game   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Big-Game-poster-locandina-2015-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/big-game/"
             },
             {
-                "titolo": "   Run All Night – Una notte per sopravvivere   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/locandina2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/run-all-night-una-notte-per-sopravvivere/"
+                "titolo": "   Torno indietro e cambio vita   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Carlo-Vanzina-al-cinema-con-Torno-indietro-e-cambio-vita-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/torno-indietro-e-cambio-vita/"
             },
             {
-                "titolo": "   Ritorno al Marigold Hotel   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/36366-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/ritorno-al-marigold-hotel/"
+                "titolo": "   Unfriended   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Unfriended_Teaser_Poster_Italia_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/unfriended/"
             },
             {
-                "titolo": "   I 7 nani   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/xHIrTDXTLZF1jBd7CQNf-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/i-7-nani/"
+                "titolo": "   Jurassic World – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world-2d/"
             },
             {
-                "titolo": "   Adaline – L’eterna giovinezza   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/adaline-poster-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/adaline-leterna-giovinezza/"
+                "titolo": "   Jurassic World – 3D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world/"
             },
             {
-                "titolo": "   Avengers: Age of Ultron – 2D   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/ultron.poster-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/avengers-age-of-ultron-2d/"
-            },
-            {
-                "titolo": "   Fast and Furious 7   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/49946-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/fast-and-furious-7-2/"
+                "titolo": "   Fury   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/fury_notizia-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/fury/"
             }
         ],
         "film2": [
             {
-                "giorno": "\n                  lunedì 11                "
+                "giorno": "\n                  mercoledì 01                "
             },
             {
-                "titolo": "   The Gunman   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/RIBqwqVPwUp6VIWeRZlS-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/the-gunman/"
+                "titolo": "   Ted 2   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/10924620_953845727966480_8022922447812071045_o-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ted-2-2/"
             },
             {
-                "titolo": "   Doraemon il film   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori_notizia-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori/"
+                "titolo": "   Duri si diventa   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Duri_si_diventa_Teaser_Poster_Italia_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/duri-si-diventa/"
             },
             {
-                "titolo": "   Child 44 – Il bambino numero 44   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Child-44-trailer-italiano-e-locandina-del-thriller-con-Gary-Oldman-e-Tom-Hardy-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/child-44-il-bambino-numero-44/"
+                "titolo": "   Ruth e Alex   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/51260-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ruth-e-alex/"
             },
             {
-                "titolo": "   The Age of Adaline – Lingua originale   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/adalineL-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/the-age-of-adaline-lingua-originale/"
+                "titolo": "   Big Game   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Big-Game-poster-locandina-2015-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/big-game/"
             },
             {
-                "titolo": "   Ritorno al Marigold Hotel   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/36366-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/ritorno-al-marigold-hotel/"
+                "titolo": "   Torno indietro e cambio vita   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Carlo-Vanzina-al-cinema-con-Torno-indietro-e-cambio-vita-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/torno-indietro-e-cambio-vita/"
             },
             {
-                "titolo": "   Adaline – L’eterna giovinezza   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/adaline-poster-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/adaline-leterna-giovinezza/"
+                "titolo": "   Albert e il diamante magico   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/albert-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/albert-e-il-diamante-magico/"
             },
             {
-                "titolo": "   Avengers: Age of Ultron – 2D   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/ultron.poster-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/avengers-age-of-ultron-2d/"
+                "titolo": "   Unfriended   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Unfriended_Teaser_Poster_Italia_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/unfriended/"
             },
             {
-                "titolo": "   Timbuktu   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/50526-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/timbuktu/"
+                "titolo": "   Jurassic World – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world-2d/"
+            },
+            {
+                "titolo": "   Jurassic World – 3D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world/"
+            },
+            {
+                "titolo": "   Fury   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/fury_notizia-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/fury/"
             }
         ],
         "film3": [
             {
-                "giorno": "\n                  martedì 12                "
+                "giorno": "\n                  giovedì 02                "
             },
             {
-                "titolo": "   The Gunman   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/RIBqwqVPwUp6VIWeRZlS-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/the-gunman/"
+                "titolo": "   Predestination   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/predestination_poster_ita-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/predestination/"
             },
             {
-                "titolo": "   Doraemon il film   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori_notizia-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/doraemon-il-film-le-avventure-di-nobita-e-dei-cinque-esploratori/"
+                "titolo": "   Poltergeist – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/locandina7-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/poltergeist-2d/"
             },
             {
-                "titolo": "   Child 44 – Il bambino numero 44   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Child-44-trailer-italiano-e-locandina-del-thriller-con-Gary-Oldman-e-Tom-Hardy-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/child-44-il-bambino-numero-44/"
+                "titolo": "   Poltergeist – 3D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/locandina7-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/poltergeist-3d/"
             },
             {
-                "titolo": "   Ritorno al Marigold Hotel   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/36366-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/ritorno-al-marigold-hotel/"
+                "titolo": "   Annie – La felicità è contagiosa   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/annie-la-felicita-e-contagiosa-v5-24800-340-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/annie-la-felicita-e-contagiosa/"
             },
             {
-                "titolo": "   L’attacco dei giganti – Il film – Parte I   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/AttaccoGiganti_LOC-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/lattacco-dei-giganti-il-film-parte-i/"
+                "titolo": "   Ted 2   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/10924620_953845727966480_8022922447812071045_o-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ted-2-2/"
             },
             {
-                "titolo": "   Adaline – L’eterna giovinezza   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/adaline-poster-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/adaline-leterna-giovinezza/"
+                "titolo": "   Duri si diventa   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Duri_si_diventa_Teaser_Poster_Italia_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/duri-si-diventa/"
             },
             {
-                "titolo": "   Avengers: Age of Ultron – 2D   ",
-                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/ultron.poster-2-150x214.jpg",
-                "link": "http://www.metropoliscinemas.it/index.php/eventi/avengers-age-of-ultron-2d/"
+                "titolo": "   Ruth e Alex   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/51260-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/ruth-e-alex/"
+            },
+            {
+                "titolo": "   Jurassic World – 2D   ",
+                "locandina": "http://www.metropoliscinemas.it/wp-content/uploads/Jurassic_World_Chris_Pratt_Teaser_Character_Poster_Italia_01_mid-150x214.jpg",
+                "link": "http://www.metropoliscinemas.it/index.php/eventi/jurassic-world-2d/"
             }
         ]
     }
